@@ -1,0 +1,22 @@
+.mx-auto {
+    width: 800px
+}
+
+.card {
+    margin-top: 10px;
+}
+
+.card .card-header {
+    text-align: center;
+    font-family: "ui-sans-serif";
+    font-style: italic;
+    margin-bottom: 5px;
+}
+
+.card-body .alert{
+    text-align: center;
+}
+
+.card .data{
+    font-family: "ui-monospace";
+}
